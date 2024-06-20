@@ -2,6 +2,8 @@
 
 
 - 🧑‍💻 Atualmente trabalho como desenvolvedor back end.
+- stacks principais
+  # C#  .NET  JAVA 
 
 <div style="display: inline_block"><br>
 
