@@ -3,7 +3,7 @@
 
 - 🧑‍💻 Atualmente trabalho como desenvolvedor back end.
 - stacks principais
-  # C#  .NET  JAVA 
+  # C#  .NET  AWS 
 
 <div style="display: inline_block"><br>
 
