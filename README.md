@@ -1,9 +1,9 @@
 ### Olá Sou o Guilherme👋
 
 
-- 🧑‍💻 Atualmente trabalho como desenvolvedor back end.
-- stacks principais
-  # C#  .NET  AWS 
+- 🧑‍💻 Atualmente trabalho como desenvolvedor (back end).
+- minhas stacks principais
+  # C# -  .NET  - AWS 
 
 <div style="display: inline_block"><br>
 
